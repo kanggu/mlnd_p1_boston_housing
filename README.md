@@ -1,5 +1,6 @@
 # p1_boston_housing
-Udacity Machine Learning Nanodegree Project 1: Predicting Boston Housing Prices
+Udacity Machine Learning Nanodegree
+Project 1: Predicting Boston Housing Prices
 
 The Boston housing market is highly competitive, and you want to be the best real estate agent in the area. 
 To compete with your peers, you decide to leverage a few basic machine learning concepts to assist you and a client with finding the best selling price for their home. 
